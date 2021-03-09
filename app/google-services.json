@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36002608845",
+    "firebase_url": "https://wiseapp-f259e.firebaseio.com",
+    "project_id": "wiseapp-f259e",
+    "storage_bucket": "wiseapp-f259e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36002608845:android:320b95559582499b78db84",
+        "android_client_info": {
+          "package_name": "com.example.wiseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36002608845-4qp1f75u23a4k8tphs5dacaresl41n5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmG1xCKQUJaWt-D2np4--ow6iGHA8V3HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36002608845-4qp1f75u23a4k8tphs5dacaresl41n5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

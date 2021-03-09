@@ -1,12 +1,74 @@
 <resources>
-    <string name="app_name">WiseApp</string>
+    <string name="app_name">LIITMUS</string>
 
     <string-array name="numbers">
-        <item>One</item>
-        <item>Two</item>
-        <item>Three</item>
-        <item>Four</item>
-        <item>Five</item>
+        <item>Enter your choice</item>
+        <item>Kingfisher ultra</item>
+        <item>kingfisher premium</item>
+        <item>Kingfisher strong</item>
+        <item>Mahou classic</item>
+        <item>Mahou strong</item>
+        <item>Brocode(10)</item>
+        <item>Brocode(15)</item>
+        <item>Budweiser</item>
+        <item>Miller Lite</item>
+        <item>Tuborg Gold</item>
+        <item>Tuborg classic</item>
+        <item>Carlsberg</item>
+        <item>Heineken</item>
+        <item>Corona</item>
+        <item>Bira 91</item>
+        <item>Hoegaarden</item>
+        <item>Others</item>
     </string-array>
+
+    <string-array name="whisky">
+        <item>Enter your choice</item>
+        <item>Jack Daniels</item>
+        <item>Monkey Shoulder Triple Malt</item>
+        <item>Johnny Walker</item>
+        <item>Cutty Sark</item>
+        <item>VAT 69</item>
+        <item>Chivas Regal 12</item>
+        <item>Jameson</item>
+        <item>Teachers Highland Cream</item>
+        <item>100 Pipers</item>
+        <item>Ballantines</item>
+        <item>The Glenlivet</item>
+        <item>Glenfiddich 12</item>
+        <item>Black Dog</item>
+        <item>Blenders Pride</item>
+        <item>Royal Stag</item>
+        <item>Amrut</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="wine">
+        <item>Enter your choice</item>
+        <item>Fratelli</item>
+        <item>Sula</item>
+        <item>Myra Misfit</item>
+        <item>Grover La Reserve</item>
+        <item>York Arrows</item>
+        <item>KRSMA</item>
+        <item>Les Cordeliers</item>
+        <item>Zampa Soriee</item>
+        <item>Riesling</item>
+        <item>Others</item>
+    </string-array>
+    <string name="google_status_fmt"></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
 
 </resources>

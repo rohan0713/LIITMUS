@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/home_background"
+    android:elevation="4dp"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    app:maxButtonHeight="56dp"
+    app:navigationIcon="@drawable/menuu"
+    app:subtitleTextColor="#1C1C1C"
+    app:title="LIITMUS"
+    app:titleMarginStart="68dp"
+    app:titleTextAppearance="@style/TextAppearance.AppCompat.Display1"
+    app:titleTextColor="@color/colorAccent">
+
+</androidx.appcompat.widget.Toolbar>
